@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/sneha/Untitled Folder/HH_Words/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="/home/sneha/Untitled Folder/HH_Words/app/build/intermediates/pre-dexed/debug/classes-bafd1b6d2c7ddcbc78bca3e34bbc707d9e07c668.jar" />
+    </item>
+    <item
+        jar="/home/sneha/adt-bundle-linux-x86_64-20140702 (2)/sdk/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="/home/sneha/Untitled Folder/HH_Words/app/build/intermediates/pre-dexed/debug/support-annotations-22.0.0-a476f5f8ef14b58118bb3c5f05f389a844fa625f.jar" />
+    </item>
+    <item
+        jar="/home/sneha/Untitled Folder/HH_Words/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/home/sneha/Untitled Folder/HH_Words/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-013f4f570e72892899d8bd59812f4100053e0a3c.jar" />
+    </item>
+    <item
+        jar="/home/sneha/Untitled Folder/HH_Words/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/home/sneha/Untitled Folder/HH_Words/app/build/intermediates/pre-dexed/debug/classes-9ffdd08e3df73b4092f75c898ea218a12c556d08.jar" />
+    </item>
+
+</items>
