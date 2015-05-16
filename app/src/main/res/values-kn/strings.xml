@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="A">A</string>
+    <string name="action_English">English</string>
+    <string name="action_Hindi">हिन्दी</string>
+    <string name="action_Kannada">ಕನ್ನಡ</string>
+</resources>

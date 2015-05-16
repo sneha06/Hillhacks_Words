@@ -2,32 +2,32 @@
 <items version="2" >
 
     <item
-        jar="/home/sneha/Untitled Folder/HH_Words/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/classes.jar"
+        jar="C:\Users\DELL\AndroidStudioProjects\Hillhacks_Words\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\libs\internal_impl-22.1.1.jar"
         jumboMode="false"
         revision="21.1.2"
-        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
-        <dex dex="/home/sneha/Untitled Folder/HH_Words/app/build/intermediates/pre-dexed/debug/classes-bafd1b6d2c7ddcbc78bca3e34bbc707d9e07c668.jar" />
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="C:\Users\DELL\AndroidStudioProjects\Hillhacks_Words\app\build\intermediates\pre-dexed\debug\internal_impl-22.1.1-c8fe3df0e4d9b4691a1a59b61ec4afb337e4cdf9.jar" />
     </item>
     <item
-        jar="/home/sneha/adt-bundle-linux-x86_64-20140702 (2)/sdk/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
+        jar="C:\Users\DELL\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.1.1\support-annotations-22.1.1.jar"
         jumboMode="false"
         revision="21.1.2"
-        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
-        <dex dex="/home/sneha/Untitled Folder/HH_Words/app/build/intermediates/pre-dexed/debug/support-annotations-22.0.0-a476f5f8ef14b58118bb3c5f05f389a844fa625f.jar" />
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="C:\Users\DELL\AndroidStudioProjects\Hillhacks_Words\app\build\intermediates\pre-dexed\debug\support-annotations-22.1.1-227d284fc1cc501032eca5bfff0b9b8288fd6cf1.jar" />
     </item>
     <item
-        jar="/home/sneha/Untitled Folder/HH_Words/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/libs/internal_impl-22.0.0.jar"
+        jar="C:\Users\DELL\AndroidStudioProjects\Hillhacks_Words\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\classes.jar"
         jumboMode="false"
         revision="21.1.2"
-        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
-        <dex dex="/home/sneha/Untitled Folder/HH_Words/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-013f4f570e72892899d8bd59812f4100053e0a3c.jar" />
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="C:\Users\DELL\AndroidStudioProjects\Hillhacks_Words\app\build\intermediates\pre-dexed\debug\classes-b7507e0ce59527bed2c7c0ea3a1784589758412d.jar" />
     </item>
     <item
-        jar="/home/sneha/Untitled Folder/HH_Words/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/classes.jar"
+        jar="C:\Users\DELL\AndroidStudioProjects\Hillhacks_Words\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.1.1\classes.jar"
         jumboMode="false"
         revision="21.1.2"
-        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
-        <dex dex="/home/sneha/Untitled Folder/HH_Words/app/build/intermediates/pre-dexed/debug/classes-9ffdd08e3df73b4092f75c898ea218a12c556d08.jar" />
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="C:\Users\DELL\AndroidStudioProjects\Hillhacks_Words\app\build\intermediates\pre-dexed\debug\classes-61bd4650311a5f341a82efce81bd764191d57124.jar" />
     </item>
 
 </items>

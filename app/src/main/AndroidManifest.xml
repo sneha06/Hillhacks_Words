@@ -17,13 +17,8 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".ScreenSlideActivity"
-            android:label="@string/title_activity_screen_slide" >
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
-
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
+            android:name=".GreenBoardActivity"
+            android:label="@string/title_activity_green_board" >
         </activity>
     </application>
 
